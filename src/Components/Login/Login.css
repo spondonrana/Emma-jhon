@@ -41,8 +41,12 @@
     border-radius: 5px;
     font-size: 20px;
     font-weight: 700;
+    cursor: pointer;
 }
 
+.form-submit:hover{
+    background: #ff9900bb;
+}
 .form-link {
     color: #FF9900;
     text-decoration: none;
